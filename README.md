@@ -35,8 +35,4 @@
 
 ###
 
-<br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/Artur-Antunes-1/Artur-Antunes-1/output/snake.svg)
-
-###
