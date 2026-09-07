@@ -36,8 +36,6 @@ Sharing what I build and learn on [X — @KingArtur_17](https://x.com/KingArtur_
   &nbsp;
   <a href="https://hermes-agent.nousresearch.com/" title="Hermes Agent (Nous Research)"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@1.97.0/dark/hermesagent.png"><img src="https://unpkg.com/@lobehub/icons-static-png@1.97.0/light/hermesagent.png" width="36" height="36" alt="Hermes Agent"></picture></a>
   &nbsp;
-  <a href="https://x.ai/bot" title="Grok Bot (xAI)"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@1.97.0/dark/grok.png"><img src="https://unpkg.com/@lobehub/icons-static-png@1.97.0/light/grok.png" width="36" height="36" alt="Grok Bot"></picture></a>
-</p>
 
 ## 3DASTRA
 
