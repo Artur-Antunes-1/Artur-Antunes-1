@@ -2,11 +2,10 @@
 
 **Creative Thinker. Builder. AI.**
 
-Sharing what I build and learn on [X / Twitter — @KingArtur_17](https://x.com/KingArtur_17).
+Sharing what I build and learn on [X — @KingArtur_17](https://x.com/KingArtur_17).
 
-[LinkedIn](https://www.linkedin.com/in/arturantunesdesouza/) · [3DASTRA](https://3dastra.vercel.app/)
+· [3DASTRA](https://3dastra.vercel.app/) ·
 
-## AI models & tools
 
 <p align="left">
   <a href="https://chatgpt.com/" title="ChatGPT"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@1.97.0/dark/openai.png"><img src="https://unpkg.com/@lobehub/icons-static-png@1.97.0/light/openai.png" width="36" height="36" alt="ChatGPT"></picture></a>
@@ -24,10 +23,6 @@ Sharing what I build and learn on [X / Twitter — @KingArtur_17](https://x.com/
   <a href="https://chat.qwen.ai/" title="Qwen"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@1.97.0/dark/qwen-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@1.97.0/light/qwen-color.png" width="36" height="36" alt="Qwen"></picture></a>
 </p>
 
-[ChatGPT](https://chatgpt.com/) · [Claude](https://claude.ai/) · [Gemini](https://gemini.google.com/) · [DeepSeek](https://chat.deepseek.com/) · [Grok](https://grok.com/) · [Kimi](https://www.kimi.com/) · [Qwen](https://chat.qwen.ai/)
-
-## Coding agents
-
 <p align="left">
   <a href="https://code.claude.com/" title="Claude Code"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@1.97.0/dark/claudecode-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@1.97.0/light/claudecode-color.png" width="36" height="36" alt="Claude Code"></picture></a>
   &nbsp;
@@ -39,8 +34,6 @@ Sharing what I build and learn on [X / Twitter — @KingArtur_17](https://x.com/
   &nbsp;
   <a href="https://antigravity.google/" title="Antigravity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@1.97.0/dark/antigravity-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@1.97.0/light/antigravity-color.png" width="36" height="36" alt="Antigravity"></picture></a>
 </p>
-
-[Claude Code](https://code.claude.com/) · [Codex](https://openai.com/codex/) · [OpenCode](https://opencode.ai/) · [Pi Agent](https://pi.dev/) · [Antigravity](https://antigravity.google/)
 
 ## 3DASTRA
 
@@ -54,7 +47,3 @@ A skill that guides AI agents from visual concepts and references to 3D modeling
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Antunes-1/Artur-Antunes-1/main/assets/contributions-dark.svg">
   <img src="https://raw.githubusercontent.com/Artur-Antunes-1/Artur-Antunes-1/main/assets/contributions-light.svg" width="820" alt="My GitHub contributions over the past year, shown as a 3D landscape with a gentle wave of light. Height and color follow contribution levels.">
 </picture>
-
-A year of building, one day at a time.
-
-<sub>AI icons by <a href="https://github.com/lobehub/lobe-icons">Lobe Icons</a>.</sub>
