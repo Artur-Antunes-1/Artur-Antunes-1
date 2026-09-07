@@ -33,6 +33,10 @@ Sharing what I build and learn on [X — @KingArtur_17](https://x.com/KingArtur_
   <a href="https://pi.dev/" title="Pi Agent"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@1.97.0/dark/pi.png"><img src="https://unpkg.com/@lobehub/icons-static-png@1.97.0/light/pi.png" width="36" height="36" alt="Pi Agent"></picture></a>
   &nbsp;
   <a href="https://antigravity.google/" title="Antigravity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@1.97.0/dark/antigravity-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@1.97.0/light/antigravity-color.png" width="36" height="36" alt="Antigravity"></picture></a>
+  &nbsp;
+  <a href="https://hermes-agent.nousresearch.com/" title="Hermes Agent (Nous Research)"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@1.97.0/dark/hermesagent.png"><img src="https://unpkg.com/@lobehub/icons-static-png@1.97.0/light/hermesagent.png" width="36" height="36" alt="Hermes Agent"></picture></a>
+  &nbsp;
+  <a href="https://x.ai/bot" title="Grok Bot (xAI)"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@1.97.0/dark/grok.png"><img src="https://unpkg.com/@lobehub/icons-static-png@1.97.0/light/grok.png" width="36" height="36" alt="Grok Bot"></picture></a>
 </p>
 
 ## 3DASTRA
@@ -44,6 +48,6 @@ A skill that guides AI agents from visual concepts and references to 3D modeling
 ## Contribution landscape
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Antunes-1/Artur-Antunes-1/main/assets/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/Artur-Antunes-1/Artur-Antunes-1/main/assets/contributions-light.svg" width="820" alt="My GitHub contributions over the past year, shown as a 3D landscape with a gentle wave of light. Height and color follow contribution levels.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Antunes-1/Artur-Antunes-1/main/assets/contributions-dark.svg?v=8c028e21d9d8">
+  <img src="https://raw.githubusercontent.com/Artur-Antunes-1/Artur-Antunes-1/main/assets/contributions-light.svg?v=8c028e21d9d8" width="820" alt="My GitHub contributions over the past year, shown as a 3D landscape with a gentle wave of light. Height and color follow contribution levels.">
 </picture>

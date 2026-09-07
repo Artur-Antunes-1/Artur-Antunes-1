@@ -1,7 +1,9 @@
 """Render a small animated skyline from the owner's real GitHub calendar."""
 import calendar as months
 import html
+import hashlib
 import json
+import re
 from pathlib import Path
 import subprocess
 import sys
@@ -137,11 +139,20 @@ def render(calendar, login, dark):
     return "\n".join(output) + "\n"
 
 
+def refresh_image_references(text, login, revision):
+    for theme in ('dark', 'light'):
+        url = f'https://raw.githubusercontent.com/{login}/{login}/main/assets/contributions-{theme}.svg'
+        pattern = re.escape(url) + r'(?:\?v=[a-f0-9]+)?(?=["\s)])'
+        text = re.sub(pattern, lambda _: f'{url}?v={revision}', text)
+    return text
+
+
 def main():
     login = sys.argv[1] if len(sys.argv) > 1 else "Artur-Antunes-1"
     calendar = read_calendar(login)
     days = validate(calendar)
     rendered = {theme: render(calendar, login, theme == "dark") for theme in ("dark", "light")}
+    revision = hashlib.sha256(''.join(rendered.values()).encode('utf-8')).hexdigest()[:12]
     destination = ROOT / "assets"
     destination.mkdir(exist_ok=True)
     for theme, svg in rendered.items():
@@ -149,9 +160,16 @@ def main():
         temporary = target.with_suffix(".tmp")
         temporary.write_text(svg, encoding="utf-8")
         temporary.replace(target)
+    readme_path = ROOT / 'README.md'
+    if readme_path.is_file():
+        original = readme_path.read_text(encoding='utf-8')
+        updated = refresh_image_references(original, login, revision)
+        if updated != original:
+            readme_path.write_text(updated, encoding='utf-8')
     print(json.dumps({"user": login, "days": len(days),
                       "totalContributions": calendar["totalContributions"],
-                      "firstDate": days[0]["date"], "lastDate": days[-1]["date"]}))
+                      "firstDate": days[0]["date"], "lastDate": days[-1]["date"],
+                      "imageRevision": revision}))
 
 
 if __name__ == "__main__":
