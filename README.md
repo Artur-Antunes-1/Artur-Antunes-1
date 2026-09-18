@@ -46,6 +46,6 @@ A skill that guides AI agents from visual concepts and references to 3D modeling
 ## Contribution landscape
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Antunes-1/Artur-Antunes-1/main/assets/contributions-dark.svg?v=52e3023344de">
-  <img src="https://raw.githubusercontent.com/Artur-Antunes-1/Artur-Antunes-1/main/assets/contributions-light.svg?v=52e3023344de" width="820" alt="My GitHub contributions over the past year, shown as a 3D landscape with a gentle wave of light. Height and color follow contribution levels.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Antunes-1/Artur-Antunes-1/main/assets/contributions-dark.svg?v=55b69d6fcc9a">
+  <img src="https://raw.githubusercontent.com/Artur-Antunes-1/Artur-Antunes-1/main/assets/contributions-light.svg?v=55b69d6fcc9a" width="820" alt="My GitHub contributions over the past year, shown as a 3D landscape with a gentle wave of light. Height and color follow contribution levels.">
 </picture>
